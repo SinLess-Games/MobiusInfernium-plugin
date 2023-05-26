@@ -1,0 +1,4 @@
+name: MobiusInfernium
+version: '${version}'
+main: com.mobiusinfernium.MobiusInfernium
+api-version: 1.18
